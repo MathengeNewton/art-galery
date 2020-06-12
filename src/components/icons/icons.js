@@ -80,6 +80,18 @@ if (display){
                 <div>
                     <ArrowRightIcon color="secondary" onClick={toggle} style={btnstyle}/>
                 </div>
+                <div>
+                    <ArrowRightIcon color="secondary" onClick={toggle} style={btnstyle}/>
+                </div>
+                <div>
+                    <ArrowRightIcon color="secondary" onClick={toggle} style={btnstyle}/>
+                </div>
+                <div>
+                    <ArrowRightIcon color="secondary" onClick={toggle} style={btnstyle}/>
+                </div>
+                <div>
+                    <ArrowRightIcon color="secondary" onClick={toggle} style={btnstyle}/>
+                </div>
             </div>
         </div>        
     </div>
