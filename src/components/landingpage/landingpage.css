@@ -1,0 +1,24 @@
+.landing-page{
+    height: 100%;
+}
+.iconSection{
+    width: 20%;
+}
+.page-small{
+    margin-top: 5%;
+    width: 100%;
+    display: inline-flex;
+}
+.body{
+    width: 80%;
+}
+.page-medium{
+    margin-top: 5%;
+    width: 100%;
+    display: inline-flex;
+}
+.page-large{
+    margin-top: 5%;
+    width: 100%;
+    display: inline-flex;
+}
