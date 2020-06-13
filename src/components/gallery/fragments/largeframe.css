@@ -1,0 +1,68 @@
+.g-header{
+    background-image: url('/public/gallery/longimage.jpg');
+    filter: grayscale(75%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 250px;
+}
+.g-header {
+    color: aliceblue;
+    padding-top: 2%;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.content-description{
+    font-weight: 400;
+    font-size: large;
+}
+.page-links{
+    display: inline-flex;
+    width: 20%;
+    margin-left: 70%;
+    height: 2%;
+}
+.l-home{
+    border: 1px solid rgb(169, 209, 236);
+    margin: 5%;
+    width: 25%;
+    margin-right: 5%;
+    padding: 1%;
+    height: 30px;
+    border-radius: 10px;
+}
+.l-home a{    
+    color: rgb(255, 255, 255) !important;
+    font-size: medium;
+}
+.l-mag{
+    border: 1px solid rgb(169, 209, 236);
+    margin: 5%;
+    width: 40%;
+    height: 30px;
+    padding: 1%;
+    margin-left: 5%;
+    border-radius:10px;
+}
+.l-mag a{
+    color: rgb(238, 182, 182) !important;
+    font-size: medium;
+}
+.g-body{
+    width: 70%;
+    display: inline-flex;
+}
+.pagetitle header{
+    font-weight: 900;
+    text-align: center;
+    font-size: larger;
+    margin-top: 2%;
+}
+.gbody{
+    display: inline-flex;
+}
+.gimages{
+    margin-left: 15%;
+}

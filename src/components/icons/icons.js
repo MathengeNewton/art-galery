@@ -11,7 +11,7 @@ import PinterestIcon from '@material-ui/icons/Pinterest';
 const useStyles = makeStyles((theme) => ({
   root: {
     '& > span': {
-      margin: theme.spacing(3),
+      margin: theme.spacing(1),
     },
   },
 }));
