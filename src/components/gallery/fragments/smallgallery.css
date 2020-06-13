@@ -1,0 +1,41 @@
+.g-header{
+    background-image: url('/public/gallery/longimage.jpg');
+    filter: grayscale(75%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 250px;
+}
+.g-header {
+    color: aliceblue;
+    padding-top: 2%;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.content-description{
+    font-weight: 400;
+    font-size: large;
+}
+.page-links{
+    display: inline-flex;
+    width: 20%;
+    margin-left: 70%;
+    height: 2%;
+}
+
+.g-body{
+    width: 90%;
+    display: inline-flex;
+}
+.pagetitle header{
+    font-weight: 900;
+    text-align: center;
+    font-size: larger;
+    margin-top: 2%;
+}
+.gbody{
+    width: 90%;
+    display: inline-flex;
+}
