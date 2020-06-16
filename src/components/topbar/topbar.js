@@ -33,7 +33,7 @@ let Topbar =()=>{
                     <a href='/'><h3>mose</h3></a>
                 </div>
                 <div className="dropdown">
-                    <Dropdown head='Links' lists={lists} />
+                    <Dropdown lists={lists} />
                 </div>
             </div>
             }
@@ -43,7 +43,7 @@ let Topbar =()=>{
                     <a href='/'><h3>mose</h3></a>
                 </div>
                 <div className="dropdown-medium">
-                    <Dropdown head='Links' lists={lists} />
+                    <Dropdown lists={lists} />
                 </div>
             </div>
             }
