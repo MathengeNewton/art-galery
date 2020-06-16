@@ -22,8 +22,8 @@ let Topbar =()=>{
         <>
             <Media queries={{
           small: "(max-width: 699px)",
-          medium: "(min-width: 700px) and (max-width: 999px)",
-          large: "(min-width: 1000px)"
+          medium: "(min-width: 700px) and (max-width: 899px)",
+          large: "(min-width: 900px)"
         }}>
           {matches => (
             <Fragment>
